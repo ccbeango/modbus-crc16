@@ -1,0 +1,12 @@
+{
+  "name": "modbus-crc16",
+  "version": "1.0.0",
+  "description": "This is a library about Modbus CRC16 checkout",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "keywords": ["modbus", "node", "crc16"],
+  "author": "ccbeango",
+  "license": "ISC"
+}
